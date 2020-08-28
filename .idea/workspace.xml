@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1946cb75-4b36-42b6-9485-1a6697bfc1d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaScript/WrittenExaminationOf360FrontendInternship1/WrittenExaminationOf360FrontendInternship1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/WrittenExaminationOfNeteaseFrontendInternship1/WrittenExaminationOfNeteaseFrontendInternship1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RotateClock/RotateClock_v1.0/RotateClock.css" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateClock/RotateClock_v1.0/RotateClock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RotateClock/RotateClock_v1.0/RotateClock.js" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateClock/RotateClock_v1.0/RotateClock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebCourse/HTML_CSS/IndividualResume/IndividualResume.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebCourse/HTML_CSS/IndividualResume/IndividualResume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebCourse/HTML_CSS/IndividualResumeV2.0/IndividualResumeV2.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebCourse/HTML_CSS/IndividualResumeV2.0/IndividualResumeV2.0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intelli-edu-admin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../intelli-edu-admin/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Xl3lSQW6gn0HzEBD44sFuKm6WA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1946cb75-4b36-42b6-9485-1a6697bfc1d0" name="Default Changelist" comment="" />
+      <created>1581607004661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581607004661</updated>
+      <workItem from="1581607007205" duration="36000" />
+      <workItem from="1581832466933" duration="200000" />
+      <workItem from="1582256102401" duration="8000" />
+      <workItem from="1597296892788" duration="916000" />
+      <workItem from="1598412082975" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
